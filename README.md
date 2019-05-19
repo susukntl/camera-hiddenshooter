@@ -1,9 +1,9 @@
 <b>Take webcam shots from target just sending a malicious link
  </b><br>
  <h1> HOW TO USE? :</h1></br>
-git clone https://github.com/susukntl/camera-hiddenshooter
-cd camera-hiddenshooter
-bash saycheese.sh
+git clone https://github.com/susukntl/camera-hiddenshooter<br>
+cd camera-hiddenshooter</br><br>
+bash saycheese.sh</br>
 <br>
 </b>Paypal donation:</b>
 <input type="submit" value="TOMBOL" class="tombol" style=.tombol{
