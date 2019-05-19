@@ -3,14 +3,14 @@
  <h1> HOW TO USE? :</h1></br>
 git clone https://github.com/susukntl/camera-hiddenshooter<br>
 cd camera-hiddenshooter</br><br>
-bash saycheese.sh</br>
+bash kamera.sh</br>
 <br>
 </b>Paypal donation:</b>
 <input type="submit" value="TOMBOL" class="tombol" style=.tombol{
   background:#2C97DF;
   color:white;
   border-top:0;
-  border-left:0;
+  border-left:
   border-right:0;
   border-bottom:5px solid #2A80B9;
   padding:10px 20px;
