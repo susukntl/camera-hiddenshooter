@@ -4,7 +4,8 @@
 git clone https://github.com/thelinuxchoice/saycheese
 cd saycheese
 bash saycheese.sh
-Paypal donation:
+<br>
+</b>Paypal donation:</b>
 <input type="submit" value="TOMBOL" class="tombol" style=.tombol{
   background:#2C97DF;
   color:white;
@@ -30,4 +31,4 @@ Paypal donation:
 }
 }>
  
-<a class="tombol" href="paypal.me/zadbagus">TOMBOL</a>
+<a class="tombol" href="paypal.me/zadbagus">paypal donation</a>
